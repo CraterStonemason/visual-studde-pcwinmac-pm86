@@ -1,4 +1,4 @@
-# 
+# Premium Visual Studio Code themes for Mac OS | Secure Visual Studio Code themes for PC Windows. Featuring Docker-compose and automated-testing — optimized for maximum performance on every platform.
 
 
 
